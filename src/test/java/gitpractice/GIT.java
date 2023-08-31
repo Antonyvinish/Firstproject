@@ -38,6 +38,9 @@ public class GIT {
         	git.method3();
         	git.method4();
         	git.method5();
+        	git.method6();
+        	git.method7();
+        	git.method8();
 	}
 
 	
