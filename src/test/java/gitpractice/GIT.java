@@ -19,8 +19,14 @@ public class GIT {
       	  System.out.println("5");
               }
         public void method6(){
-        	  System.out.println("7");
+        	  System.out.println("6");
                 }
+        public void method7(){
+      	  System.out.println("7");
+              }
+        public void method8(){
+      	  System.out.println("8");
+              }
               
         
         public static void main(String[] args) {
